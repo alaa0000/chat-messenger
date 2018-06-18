@@ -1,0 +1,11 @@
+{
+  "name": "web-api",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "socket.io": "2.1.1"
+  }
+}
